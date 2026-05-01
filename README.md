@@ -50,3 +50,8 @@ The application will start on `http://127.0.0.1:5000`. Open this URL in your web
 
 *   **ADB Authorization:** The first time you connect your device, you may need to accept an RSA key prompt on your Android device to allow USB debugging from your computer.
 *   The `.gitignore` file is already set up to exclude unnecessary files like `__pycache__`, `.idea`, `.venv`, and database files from being uploaded to GitHub.
+
+*   other option
+*   download the apk into your phone and run the project then enter the ip address show in dashboard in phone
+*   here your phone is connected without usb debugging
+*   
